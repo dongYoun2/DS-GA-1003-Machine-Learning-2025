@@ -13,3 +13,7 @@ uv.lock
 
 # python files
 **pycache**
+
+# 
+
+**/data/
