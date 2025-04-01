@@ -1,5 +1,6 @@
 numpy
 matplotlib
 torch==2.4.0; python_version >= "3.8" and python_version < "3.13"
+transformers
 scikit-learn
 pandas==2.2.0
